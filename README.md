@@ -11,7 +11,7 @@ This project implements a simple TCP server in Python that listens for incoming 
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 
 ## Installation
 
@@ -71,9 +71,8 @@ Contributions, issues, and feature requests are welcome. Feel free to check issu
 
 ## Author
 
-[Your Name]
+Parth Jain
 
 ## Acknowledgments
 
 - Python Socket Programming documentation
-- [Any other resources or inspirations you used]
